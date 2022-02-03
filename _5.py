@@ -16,3 +16,5 @@ while x != 11:
             my_list.insert(el + 1, x)
         print(f'Текущий список - {my_list}')
         x = int(input('Введите число: '))
+
+        
